@@ -1,0 +1,9 @@
+server:
+  port: 9099
+#spring:
+#  boot:
+#    admin:
+#      probed-endpoints: env, metrics, trace, jolokia, info, configprops
+spring.boot.admin:
+  ui:
+    brand: "<img src=\"custom/custom.png\"><span>Spring Boot Admin for ActivePivot</span>"
