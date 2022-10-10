@@ -9,6 +9,7 @@
 ## 📋 Details
 This project uses `spring-boot-admin-starter-server` to provide the Spring Boot Admin server and the Spring Boot Admin UI in a simple runnable Spring Boot Application.
 Any Spring Boot application can then include the Spring Boot Admin client dependency and connect to this server to allow monitoring and management via the Spring Boot Admin UI.
+The default UI has been costumized to display ActiveViam's logo.
 
 For more details regarding Spring Boot Admin see:
 - https://github.com/codecentric/spring-boot-admin
